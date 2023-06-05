@@ -1,2 +1,4 @@
 Hello folks
+yum install * -y
+
 
